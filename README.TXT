@@ -20,12 +20,10 @@ https://github.com/webmproject/libwebp
 ├─PATENTES
 ├─x64
 │　└─anipmaker.exe
-├─x86
-│　└─anipmaker.exe
-└─src
-　　├...
+└─x86
+　　└─anipmaker.exe
 
-計 7 ファイル + ソースコード
+計 7 ファイル
 
 
 【インストール】
